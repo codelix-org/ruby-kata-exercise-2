@@ -15,7 +15,7 @@ mkdir ruby-katas-trail
 cd ruby-katas-trail
 
 # Clone this repo
-git clone git@github.com:codelix-org/ruby-kata-exercise-1.git
+git clone git@github.com:codelix-org/ruby-kata-exercise-2.git
 cd ruby-kata-exercise-2
 
 # Install dependencies
