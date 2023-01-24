@@ -1,7 +1,7 @@
 module Services
   class FindUniqueNumber
     def self.call(numbers)
-      # Add code here
+      numbers.tally.key(1)
     end
   end
 end
